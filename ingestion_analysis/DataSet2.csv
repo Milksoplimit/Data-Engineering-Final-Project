@@ -1,0 +1,2 @@
+ProjectName,DataSetName,Source,NumberOfRows,NumberOfColumns,NumberOfStringCols,NumberOfCategoricalCols,NumberOfIntegerCols,NumberOfFloatCols,MissingData,Anomalies,Active,JoinStrategy
+CSCI 422 Project Gregory Beaucalir,aoe-elo,<https://aoe-elo.com>,25,20,3,7,8,3,yes,yes,yes,I will have to join using the values in the list for the tournament ids and yse the name for the other dataset

@@ -1,0 +1,19 @@
+
+    [
+    {"id":"1","name":"Group Stage","bracket":"1","index":"2","weight":"1","importance":"1"},
+    {"id":"2","name":"K.O. Phase","bracket":"1","index":"3","weight":"1","importance":"1"},
+    {"id":"3","name":"K.O. (Loser Bracket)","bracket":"3","index":"11","weight":"1","importance":"1"},
+    {"id":"4","name":"Quarter-Finals","bracket":"1","index":"4","weight":"1","importance":"2"},
+    {"id":"5","name":"Semi-Finals","bracket":"1","index":"5","weight":"1","importance":"3"},
+    {"id":"6","name":"Finale","bracket":"1","index":"17","weight":"1","importance":"4"},
+    {"id":"7","name":"Grand Finale","bracket":"1","index":"17","weight":"1","importance":"4"},
+    {"id":"8","name":"First RO4 (Loser Bracket)","bracket":"3","index":"12","weight":"1","importance":"1"},
+    {"id":"9","name":"Second RO4 (Loser Bracket)","bracket":"3","index":"13","weight":"1","importance":"2"},
+    {"id":"10","name":"Semi-Finale (Loser Bracket)","bracket":"3","index":"14","weight":"1","importance":"1"},
+    {"id":"11","name":"Finale (Loser Bracket)","bracket":"3","index":"15","weight":"1","importance":"3"},
+    {"id":"12","name":"Bronze-Match","bracket":"1","index":"16","weight":"1","importance":"3"},
+    {"id":"13","name":"Finale (Winner Bracket)","bracket":"2","index":"10","weight":"1","importance":"3"},
+    {"id":"14","name":"K.O. (Winner Bracket)","bracket":"2","index":"7","weight":"1","importance":"1"},
+    {"id":"15","name":"Quarter-Finals (Winner Bracket)","bracket":"2","index":"8","weight":"1","importance":"1"},
+    {"id":"16","name":"Semi-Finals (Winner Bracket)","bracket":"2","index":"9","weight":"1","importance":"1"}
+    ]

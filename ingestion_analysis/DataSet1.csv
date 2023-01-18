@@ -1,0 +1,2 @@
+ProjectName,DataSetName,Source,NumberOfRows,NumberOfColumns,NumberOfStringCols,NumberOfCategoricalCols,NumberOfIntegerCols,NumberOfFloatCols,MissingData,Anomalies,Active,JoinStrategy
+CSCI 422 Project Gregory Beaucalir,aoepulseDB,<https://www.aoepulse.com>,25,6,1,0,3,2,no,no,no,I need to decode all of the numeric values in the tables of the database as well as join on the player somehow (likely with the id but on the name with the other dataset)
